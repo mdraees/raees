@@ -1,5 +1,5 @@
 <?php
-$dbhost = '127.4.182.2:3306';
+$dbhost = '127.0.250.1:3306';
 $dbuser = 'adminQMjwDl7';//user of the database
 $dbpass = 'qbgK6Ym6ZjF2';//password here
 

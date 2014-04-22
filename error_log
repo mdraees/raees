@@ -1,0 +1,1 @@
+[04-Jul-2012 01:27:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'abhatrav_cloudbi'@'localhost' (using password: YES) in /home4/abhatrav/public_html/cloudbillstock/config.php on line 6
